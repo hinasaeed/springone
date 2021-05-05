@@ -28,6 +28,6 @@ public class SpringoneApplication {
 
 	//now this app can listen to messages, process it and publish a message
 
-
+//testing to commit and mirror to the other branch called springtwo
 
 }
